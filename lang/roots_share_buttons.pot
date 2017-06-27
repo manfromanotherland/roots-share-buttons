@@ -1,0 +1,119 @@
+#: lib/admin.php:36
+msgid "General Configuration"
+msgstr ""
+
+#: lib/admin.php:42
+msgid "Enable Buttons"
+msgstr ""
+
+#: lib/admin.php:49
+msgid "Share Count"
+msgstr ""
+
+#: lib/admin.php:56
+msgid "Theme Integration"
+msgstr ""
+
+#: lib/admin.php:62
+msgid "Archive Templates"
+msgstr ""
+
+#: lib/admin.php:69
+msgid "Single Templates"
+msgstr ""
+
+#: lib/admin.php:76
+msgid "Post Types"
+msgstr ""
+
+#: lib/admin.php:210
+msgid "Twitter"
+msgstr ""
+
+#: lib/admin.php:213
+msgid "Facebook"
+msgstr ""
+
+#: lib/admin.php:216
+msgid "Google Plus"
+msgstr ""
+
+#: lib/admin.php:219
+msgid "LinkedIn"
+msgstr ""
+
+#: lib/admin.php:222
+msgid "Pinterest"
+msgstr ""
+
+#: lib/admin.php:231 lib/admin.php:238
+msgid "Before the content"
+msgstr ""
+
+#: lib/admin.php:232 lib/admin.php:239
+msgid "After the content"
+msgstr ""
+
+#: lib/admin.php:245
+msgid "Enabled"
+msgstr ""
+
+#: lib/admin.php:246
+msgid "Disabled"
+msgstr ""
+
+#: templates/shortcode-share.php:30
+msgid "Share on Twitter"
+msgstr ""
+
+#: templates/shortcode-share.php:32
+msgid "Tweet"
+msgstr ""
+
+#: templates/shortcode-share.php:43
+msgid "Share on Facebook"
+msgstr ""
+
+#: templates/shortcode-share.php:45 templates/shortcode-share.php:71
+msgid "Share"
+msgstr ""
+
+#: templates/shortcode-share.php:56
+msgid "Share on Google+"
+msgstr ""
+
+#: templates/shortcode-share.php:58
+msgid "+1"
+msgstr ""
+
+#: templates/shortcode-share.php:69
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: templates/shortcode-share.php:96
+msgid "Share on Pinterest"
+msgstr ""
+
+#: templates/shortcode-share.php:98
+msgid "Pin it"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Roots Share Buttons"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://roots.io/plugins/share-buttons/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add lightweight social sharing buttons with optional share counts."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ben Word"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://roots.io/"
+msgstr ""
